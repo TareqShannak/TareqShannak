@@ -60,7 +60,11 @@ You can click the Preview link to take a look at your changes.
  
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
-  <img src="https://profile-counter.glitch.me/TareqShannak/count.svg"></img>
+  <img 
+    src="https://profile-counter.glitch.me/TareqShannak/count.svg" 
+    alt="Visitor Counter"
+    onerror="this.style.display='none';" 
+  >
 </div>
 
 <br /><br />
