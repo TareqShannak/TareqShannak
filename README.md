@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
   <img 
-    src="https://profile-counter.glitch.me/TareqShannak/count.svg" 
+    src="https://komarev.com/ghpvc/?username=TareqShannak&label=Profile%20Views&color=blue&style=flat" 
     alt="Visitor Counter"
     onerror="this.style.display='none';" 
   >
